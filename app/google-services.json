@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "967841128098",
+    "project_id": "komishgofer",
+    "storage_bucket": "komishgofer.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967841128098:android:d4423f675ec282ca28c1fb",
+        "android_client_info": {
+          "package_name": "com.example.komishapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHB40VksWQTMGKmr8scKsNmXgD1YeIM0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
